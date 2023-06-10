@@ -1,1 +1,25 @@
-<p>show-dep works!</p>
+<div class="card">
+  <div class="card-body">
+     <table class="table table-sm table-hover">
+      <thead>
+        <tr>
+          <th>#</th>
+          <th class="text-center">Department</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let department of departmentLists">
+          <td scope="row">{{ department.DepartmentId }}</td>
+          <td class="text-center">{{ department.DepartmentName }}</td>
+          <td scope="row">
+            <button class="btn btn-sm btn-warning">Edit</button>
+            <button class="btn btn-sm btn-danger m-1">Edit</button>
+          </td>
+        </tr>
+
+      </tbody>
+     </table>
+
+  </div>
+</div>

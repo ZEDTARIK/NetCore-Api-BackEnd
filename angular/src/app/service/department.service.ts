@@ -26,7 +26,7 @@ export class DepartmentService {
    * from the API endpoint `/department`.
    */
   getDepartments(): Observable<any[]> {
-    return this.http.get<any[]>(this.APIURL + '/department');
+    return this.http.get<any[]>(this.APIURL + '/Department');
   }
 
   /**
