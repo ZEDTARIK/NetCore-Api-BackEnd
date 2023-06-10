@@ -32,3 +32,15 @@
 
 <img src ="Configuration Path Files to Store.png" /> <br />
 <img src ="SaveFile.png" /> <br />
+
+# Angular
+
+<br />
+<br />
+
+# Service List Department
+<img src ="Service - List Department.png" /> <br />
+
+# Get List Department inside Component
+<img src ="getListDepartment.png" /> <br />
+<img src ="getListDepartment - HTML.png" /> <br />
