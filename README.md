@@ -27,3 +27,8 @@
 
 <img src ="Delete Department.png" /> <br />
 
+
+# Configuration Path to Store Images
+
+<img src ="Configuration Path Files to Store.png" /> <br />
+<img src ="SaveFile.png" /> <br />
